@@ -1,0 +1,1 @@
+{"mappings":"AEAA","sources":["index.f49427f7.css","main.css","main.scss"],"sourcesContent":["h1 {\n  color: red;\n  background-color: #e6e6fa;\n}\n\n/*# sourceMappingURL=index.f49427f7.css.map */\n","h1 {\n  color: red;\n  background-color: lavender;\n}\n\n","h1 {\n    color:red;\n    background-color:lavender;\n}"],"names":[],"version":3,"file":"index.f49427f7.css.map"}
